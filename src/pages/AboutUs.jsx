@@ -125,7 +125,7 @@ const AboutUs = () => {
 
           {/* single gradient: image → dark (numbers) → solid white (labels), no hard edges */}
           <div
-            className="absolute w-100 lg:w-180 z-50 top-460 lg:top-300 lg:left-175 flex flex-col justify-end border border-white/30"
+            className="absolute w-100 lg:w-180 z-50 top-450 lg:top-300 lg:left-175 flex flex-col justify-end border border-white/30"
             style={{
               backdropFilter: 'blur(10px)',
             }}
